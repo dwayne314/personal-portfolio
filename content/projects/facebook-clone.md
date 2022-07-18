@@ -2,7 +2,7 @@
 name: Facebook Clone
 tech: [Javascript, React, Tailwind, Firebase]
 githubLink: https://github.com/dwayne314/facebook-clone
-siteLink: https://facebook-clone-two-gules.vercel.app/
+siteLink: https://facebook-clone-dwayne314.vercel.app/
 projectId: 4
 ---
 
